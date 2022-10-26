@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/awenxyll/kaiti/cluster"
+	"github.com/muesli/clusters"
 )
 
 // Kmeans configuration/option struct
